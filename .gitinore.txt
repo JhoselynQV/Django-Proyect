@@ -1,4 +1,0 @@
-*.replit
-*.class
-test.txt
-target
